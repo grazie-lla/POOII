@@ -33,12 +33,6 @@ public class MinhaLista<T extends ObjetoComId<U>, U> {
     }
 
     public boolean contem(T elemento) {
-        for (int i = 0; i < this.elementos.size(); i++) {
-            T elementoContido = this.elementos.get(i);
-            if (elemento.equals(elementoContido)) {
-                return true;
-            }
-        }
-        return false;
+        return this.elementos.contains(elemento);
     }
 }

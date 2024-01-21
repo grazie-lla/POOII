@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222c91a5-bcb1-45a0-b370-1292546e3bb2" name="Changes" comment="initial commit">
+    <list default="true" id="222c91a5-bcb1-45a0-b370-1292546e3bb2" name="Changes" comment="modified package exercicio5">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio3/MinhaLista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio3/ObjetoComId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio3/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio4/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio4/StackImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio5/CPFService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio5/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio5/SMSService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio5/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio5/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio6/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio6/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio6/ItemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio6/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio6/PedidoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio6/PedidoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio6/TransporteService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio3/MinhaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio3/MinhaLista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +25,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "grazie-lla"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="609f5179-2814-4689-b53b-d4021b029a74" />
+        <option name="url" value="https://github.com/grazie-lla/POOII.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -57,6 +54,7 @@
     "Application.MinhaLista.executor": "Run",
     "Application.br.com.ada.pooii.exercicio1.Main.executor": "Run",
     "Application.br.com.ada.pooii.exercicio2.Main.executor": "Run",
+    "Application.br.com.ada.pooii.exercicio3.Main.executor": "Run",
     "Application.br.com.ada.pooii.exercicio4.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -167,7 +165,7 @@
       <updated>1704753705401</updated>
       <workItem from="1704753710783" duration="1571000" />
       <workItem from="1704927399771" duration="4556000" />
-      <workItem from="1705104877766" duration="8952000" />
+      <workItem from="1705104877766" duration="10511000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -177,7 +175,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704935304707</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1705797986729</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705797986730</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modified package exercicio6">
+      <option name="closed" value="true" />
+      <created>1705798192452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705798192452</updated>
+    </task>
+    <task id="LOCAL-00004" summary="modified package exercicio5">
+      <option name="closed" value="true" />
+      <created>1705798299105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705798299105</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +207,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="modified package exercicio6" />
+    <MESSAGE value="modified package exercicio5" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified package exercicio5" />
   </component>
 </project>
