@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222c91a5-bcb1-45a0-b370-1292546e3bb2" name="Changes" comment="modified package exercicio3">
+    <list default="true" id="222c91a5-bcb1-45a0-b370-1292546e3bb2" name="Changes" comment="modified class Main in exercicio3">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio4/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio4/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio4/StackImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ada/pooii/exercicio4/StackImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +80,7 @@
       <recent name="br.com.ada.pooii.exercicio6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.br.com.ada.pooii.exercicio3.Main">
+  <component name="RunManager" selected="Application.br.com.ada.pooii.exercicio4.Main">
     <configuration name="MinhaLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MinhaLista" />
       <module name="POOII" />
@@ -139,8 +142,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.br.com.ada.pooii.exercicio3.Main" />
         <item itemvalue="Application.br.com.ada.pooii.exercicio4.Main" />
+        <item itemvalue="Application.br.com.ada.pooii.exercicio3.Main" />
         <item itemvalue="Application.MinhaLista" />
         <item itemvalue="Application.br.com.ada.pooii.exercicio1.Main" />
         <item itemvalue="Application.br.com.ada.pooii.exercicio2.Main" />
@@ -164,7 +167,7 @@
       <updated>1704753705401</updated>
       <workItem from="1704753710783" duration="1571000" />
       <workItem from="1704927399771" duration="4556000" />
-      <workItem from="1705104877766" duration="10864000" />
+      <workItem from="1705104877766" duration="12590000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -206,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705799691204</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="modified class Main in exercicio3">
+      <option name="closed" value="true" />
+      <created>1705799913798</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705799913798</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +228,7 @@
     <MESSAGE value="modified package exercicio6" />
     <MESSAGE value="modified package exercicio5" />
     <MESSAGE value="modified package exercicio3" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified package exercicio3" />
+    <MESSAGE value="modified class Main in exercicio3" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified class Main in exercicio3" />
   </component>
 </project>
